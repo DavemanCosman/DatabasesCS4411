@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authorRoot>
+	<author>
+		<Fname>P.-A.</Fname>
+		<Lname>Larson</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Peter</Fname>
+		<Lname>Boncz</Lname>
+		<Location>CWI Amsterdam</Location>
+	</author>
+	<author>
+		<Fname>Torsten</Fname>
+		<Lname>Grust</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Betty</Fname>
+		<Lname>Salzberg</Lname>
+		<Location>Northeastern University, Boston</Location>
+	</author>
+	<author>
+		<Fname>Christian S.</Fname>
+		<Lname>Jensen</Lname>
+		<Location>Aalborg University, Denmark</Location>
+	</author>
+	<author>
+		<Fname>Maurice</Fname>
+		<Lname>van Keulen</Lname>
+		<Location>Twente</Location>
+	</author>
+	<author>
+		<Fname>Stephan</Fname>
+		<Lname>Manegold</Lname>
+		<Location>CWI Amsterdam</Location>
+	</author>
+	<author>
+		<Fname>Jan</Fname>
+		<Lname>Rittinger</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Jens</Fname>
+		<Lname>Teubner</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Shurug</Fname>
+		<Lname>Al-Khalifa</Lname>
+		<Location>University of Michigan</Location>
+	</author>
+	<author>
+		<Fname>Adriane</Fname>
+		<Lname>Chapman</Lname>
+		<Location>Mitre</Location>
+	</author>
+	<author>
+		<Fname>H. V.</Fname>
+		<Lname>Jagadish</Lname>
+		<Location>University of Michigan</Location>
+	</author>
+	<author>
+		<Fname>Kunal</Fname>
+		<Lname>Talwar</Lname>
+		<Location/>
+	</author>
+	<author>
+		<Fname>Jignesh</Fname>
+		<Lname>Patel</Lname>
+		<Location>University of Michigan</Location>
+	</author>
+	<author>
+		<Fname>Yuqing</Fname>
+		<Lname>Wu</Lname>
+		<Location>University of Michigan</Location>
+	</author>
+	<author>
+		<Fname>Nick</Fname>
+		<Lname>Koudas</Lname>
+		<Location>ATT Labs</Location>
+	</author>
+	<author>
+		<Fname>Divesh</Fname>
+		<Lname>Srivastava</Lname>
+		<Location>ATT Labs</Location>
+	</author>
+	<author>
+		<Fname>Kevin</Fname>
+		<Lname>Beyer</Lname>
+		<Location>IBM Almaden</Location>
+	</author>
+	<author>
+		<Fname>Sara</Fname>
+		<Lname>Cohen</Lname>
+		<Location>Haifa</Location>
+	</author>
+	<author>
+		<Fname>Kyuseok</Fname>
+		<Lname>Shim</Lname>
+		<Location/>
+	</author>
+	<author>
+		<Fname>Werner</Fname>
+		<Lname>Nutt</Lname>
+		<Location>Edinburgh</Location>
+	</author>
+	<author>
+		<Fname>Alexander</Fname>
+		<Lname>Serebrenik</Lname>
+		<Location>Leuven</Location>
+	</author>
+	<author>
+		<Fname>Amol</Fname>
+		<Lname>Deshpande</Lname>
+		<Location>Maryland</Location>
+	</author>
+	<author>
+		<Fname>Samuel</Fname>
+		<Lname>Madden</Lname>
+		<Location>MIT</Location>
+	</author>
+	<author>
+		<Fname>Carlos</Fname>
+		<Lname>Guestrin</Lname>
+		<Location>Intel</Location>
+	</author>
+	<author>
+		<Fname>E. F.</Fname>
+		<Lname>Codd</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Joseph M.</Fname>
+		<Lname>Hellerstein</Lname>
+		<Location>UC Berkeley</Location>
+	</author>
+	<author>
+		<Fname>Wei</Fname>
+		<Lname>Hong</Lname>
+		<Location>Intel</Location>
+	</author>
+	<author>
+		<Fname>Michael J.</Fname>
+		<Lname>Franklin</Lname>
+		<Location>UC Berkeley</Location>
+	</author>
+	<author>
+		<Fname>Kapali</Fname>
+		<Lname>Eswaran</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Raymond</Fname>
+		<Lname>Lorie</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Irv</Fname>
+		<Lname>Traiger</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Jim</Fname>
+		<Lname>Gray</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Surajit</Fname>
+		<Lname>Chaudhuri</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Don</Fname>
+		<Lname>Reichart</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Adam</Fname>
+		<Lname>Bosworth</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Andrew</Fname>
+		<Lname>Layman</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Hamid</Fname>
+		<Lname>Pirahesh</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Jose</Fname>
+		<Lname>Blakeley</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Neil</Fname>
+		<Lname>Coburn</Lname>
+		<Location>University of Waterloo</Location>
+	</author>
+	<author>
+		<Fname>Murali</Fname>
+		<Lname>Venkatrao</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>David B.</Fname>
+		<Lname>Lomet</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Frank</Fname>
+		<Lname>McSherry</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Soumyadeb</Fname>
+		<Lname>Mitra</Lname>
+		<Location>University of Illinois</Location>
+	</author>
+	<author>
+		<Fname>Marianne</Fname>
+		<Lname>Winslett</Lname>
+		<Location>University of Illinois</Location>
+	</author>
+	<author>
+		<Fname>Dimitris </Fname>
+		<Lname>Tsirogiannis</Lname>
+		<Location>University of Toronto</Location>
+	</author>
+	<author>
+		<Fname>Zografoula</Fname>
+		<Lname>Vagena</Lname>
+		<Location>Riverside</Location>
+	</author>
+	<author>
+		<Fname>Roger</Fname>
+		<Lname>Barga</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Mohammed</Fname>
+		<Lname>Mokbel</Lname>
+		<Location>University of Minnesota</Location>
+	</author>
+	<author>
+		<Fname>German</Fname>
+		<Lname>Shegalov</Lname>
+		<Location>Max Planck Institute</Location>
+	</author>
+	<author>
+		<Fname>Rui</Fname>
+		<Lname>Wang</Lname>
+		<Location>Northeastern University</Location>
+	</author>
+	<author>
+		<Fname>Yunyue</Fname>
+		<Lname>Zhu</Lname>
+		<Location>New York University</Location>
+	</author>
+	<author>
+		<Fname>Kyriacos</Fname>
+		<Lname>Pavlou</Lname>
+		<Location>Arizona</Location>
+	</author>
+	<author>
+		<Fname>Richard T.</Fname>
+		<Lname>Snodgrass</Lname>
+		<Location>University of Arizona</Location>
+	</author>
+	<author>
+		<Fname>Shashank</Fname>
+		<Lname>Yaduvanshi</Lname>
+		<Location>Indian Institute of Technology</Location>
+	</author>
+	<author>
+		<Fname>Sumedh</Fname>
+		<Lname>Ambokar</Lname>
+		<Location>Indian Institute of Technology</Location>
+	</author>
+	<author>
+		<Fname>Abdullah</Fname>
+		<Lname>Tansel</Lname>
+		<Location>Ankara</Location>
+	</author>
+	<author>
+		<Fname>James</Fname>
+		<Lname>Clifford</Lname>
+		<Location>Los Alamos</Location>
+	</author>
+	<author>
+		<Fname>Shashi</Fname>
+		<Lname>Gadia</Lname>
+		<Location>Iowa State</Location>
+	</author>
+	<author>
+		<Fname>Sushil</Fname>
+		<Lname>Jajodia</Lname>
+		<Location>George Mason University</Location>
+	</author>
+	<author>
+		<Fname>Stavros</Fname>
+		<Lname>Harizopoulos</Lname>
+		<Location>HP Labs</Location>
+	</author>
+	<author>
+		<Fname>Mehul A.</Fname>
+		<Lname>Shah</Lname>
+		<Location>HP Labs</Location>
+	</author>
+	<author>
+		<Fname>Janet L.</Fname>
+		<Lname>Wiener</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Goetz</Fname>
+		<Lname>Graefe</Lname>
+		<Location>HP Labs</Location>
+	</author>
+	<author>
+		<Fname>Feifei</Fname>
+		<Lname>Li</Lname>
+		<Location>Florida State University</Location>
+	</author>
+	<author>
+		<Fname>Arie</Fname>
+		<Lname>Segev</Lname>
+		<Location>UC Berkeley</Location>
+	</author>
+	<author>
+		<Fname>Jennifer</Fname>
+		<Lname>Widom</Lname>
+		<Location>Stanford</Location>
+	</author>
+	<author>
+		<Fname>Yingwei</Fname>
+		<Lname>Cui</Lname>
+		<Location>Stanford</Location>
+	</author>
+	<author>
+		<Fname>John</Fname>
+		<Lname>Cieslewicz</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Kenneth A.</Fname>
+		<Lname>Ross</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Kyoho</Fname>
+		<Lname>Satsumi</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Yang</Fname>
+		<Lname>Ye</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Yi-Reun</Fname>
+		<Lname>Kim</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Kyu-Young</Fname>
+		<Lname>Whang</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Il-Yeol</Fname>
+		<Lname>Song</Lname>
+		<Location>Columbia University</Location>
+	</author>
+	<author>
+		<Fname>Carsten</Fname>
+		<Lname>Binnig</Lname>
+		<Location>ETH Zurich</Location>
+	</author>
+	<author>
+		<Fname>Donald</Fname>
+		<Lname>Kossmann</Lname>
+		<Location>ETH Zurich</Location>
+	</author>
+	<author>
+		<Fname>Tim</Fname>
+		<Lname>Kraska</Lname>
+		<Location>ETH Zurich</Location>
+	</author>
+	<author>
+		<Fname>Simon</Fname>
+		<Lname>Loesing</Lname>
+		<Location>ETH Zurich</Location>
+	</author>
+	<author>
+		<Fname>Jeffrey</Fname>
+		<Lname>Pound</Lname>
+		<Location>University of Waterloo</Location>
+	</author>
+	<author>
+		<Fname>Ihab F.</Fname>
+		<Lname>Ilyas</Lname>
+		<Location>University of Waterloo</Location>
+	</author>
+	<author>
+		<Fname>Grant</Fname>
+		<Lname>Weddell</Lname>
+		<Location>University of Waterloo</Location>
+	</author>
+	<author>
+		<Fname>Jerzy</Fname>
+		<Lname>Tyszkiewicz</Lname>
+		<Location>University of Warsaw</Location>
+	</author>
+	<author>
+		<Fname>Zhengdao</Fname>
+		<Lname>Xu</Lname>
+		<Location>University of Toronto</Location>
+	</author>
+	<author>
+		<Fname>Hans-Arno</Fname>
+		<Lname>Jacobsen</Lname>
+		<Location>University of Toronto</Location>
+	</author>
+	<author>
+		<Fname>Sergey</Fname>
+		<Lname>Brin</Lname>
+		<Location>Google</Location>
+	</author>
+	<author>
+		<Fname>Lawrence</Fname>
+		<Lname>Page</Lname>
+		<Location>Google</Location>
+	</author>
+	<author>
+		<Fname>Jianjun</Fname>
+		<Lname>Chen</Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Christopher</Fname>
+		<Lname>Douglas</Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Michi</Fname>
+		<Lname>Mutsuzaki</Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Sriram</Fname>
+		<Lname>Rao</Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Patrick</Fname>
+		<Lname>Quaid</Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Raghu</Fname>
+		<Lname>Ramakrishnan</Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Russell</Fname>
+		<Lname>Sears </Lname>
+		<Location>Yahoo</Location>
+	</author>
+	<author>
+		<Fname>Harumi</Fname>
+		<Lname>Kuno</Lname>
+		<Location>H.P. Labs</Location>
+	</author>
+	<author>
+		<Fname>Andrew</Fname>
+		<Lname>Pavlo</Lname>
+		<Location>Brown University</Location>
+	</author>
+	<author>
+		<Fname>Erik</Fname>
+		<Lname>Paulson</Lname>
+		<Location>U. Wisconsin</Location>
+	</author>
+	<author>
+		<Fname>Alexander</Fname>
+		<Lname>Rasin</Lname>
+		<Location>Brown University</Location>
+	</author>
+	<author>
+		<Fname>Daniel J.</Fname>
+		<Lname>Abadi</Lname>
+		<Location>Yale University</Location>
+	</author>
+	<author>
+		<Fname>David J.</Fname>
+		<Lname>DeWitt</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Michael</Fname>
+		<Lname>Stonebraker</Lname>
+		<Location>M.I.T.</Location>
+	</author>
+	<author>
+		<Fname>Srinath</Fname>
+		<Lname>Shankar</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Rimma</Fname>
+		<Lname>Nehme</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Josep</Fname>
+		<Lname>Aguilar-Saborit</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Andrew</Fname>
+		<Lname>Chung</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Mostafa</Fname>
+		<Lname>Elhemali</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Alan</Fname>
+		<Lname>Halverson</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Eric</Fname>
+		<Lname>Robinson</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Mahadevan Sankara</Fname>
+		<Lname>Subramanian</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Cesar</Fname>
+		<Lname>Galindo-Legaria</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Xueyuan</Fname>
+		<Lname>Su</Lname>
+		<Location>Yale University</Location>
+	</author>
+	<author>
+		<Fname>Garret</Fname>
+		<Lname>Swart</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Foto N.</Fname>
+		<Lname>Afrati</Lname>
+		<Location>National Technical University of Athens</Location>
+	</author>
+	<author>
+		<Fname>Jeffrey D.</Fname>
+		<Lname>Ullman</Lname>
+		<Location>Stanford</Location>
+	</author>
+	<author>
+		<Fname>Cagri</Fname>
+		<Lname>Balkesen</Lname>
+		<Location>ETH</Location>
+	</author>
+	<author>
+		<Fname>Gustavo</Fname>
+		<Lname>Alonso</Lname>
+		<Location>ETH</Location>
+	</author>
+	<author>
+		<Fname>Jens</Fname>
+		<Lname>Teubner</Lname>
+		<Location>TU Dortmund</Location>
+	</author>
+	<author>
+		<Fname>Mike</Fname>
+		<Lname>Zwilling</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>M. Tamer</Fname>
+		<Lname>Ozsu</Lname>
+		<Location>University of Waterloo</Location>
+	</author>
+	<author>
+		<Fname>Jeffrey</Fname>
+		<Lname>Dean</Lname>
+		<Location>Google</Location>
+	</author>
+	<author>
+		<Fname>Sanjay</Fname>
+		<Lname>Ghemawat</Lname>
+		<Location>Google</Location>
+	</author>
+	<author>
+		<Fname>Patricia P.</Fname>
+		<Lname>Griffiths</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Bradford W.</Fname>
+		<Lname>Wade</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Spyros</Fname>
+		<Lname>Blanas</Lname>
+		<Location>U. Wisconsin</Location>
+	</author>
+	<author>
+		<Fname>Christian</Fname>
+		<Lname>Diaconu</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Craig</Fname>
+		<Lname>Freedman</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Patricia G.</Fname>
+		<Lname>Selinger</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Morton M.</Fname>
+		<Lname>Astrahan</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Donald D.</Fname>
+		<Lname>Chamberlin</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Thomas G.</Fname>
+		<Lname>Price</Lname>
+		<Location>IBM</Location>
+	</author>
+	<author>
+		<Fname>Zhen Hua</Fname>
+		<Lname>Liu</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Beda Christoph</Fname>
+		<Lname>Hammerschmidt</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Doug</Fname>
+		<Lname>McMahon</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Aakash</Fname>
+		<Lname>Goel</Lname>
+		<Location>Georgia Institute of Technology</Location>
+	</author>
+	<author>
+		<Fname>Bhuwan</Fname>
+		<Lname>Chopra</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Ciprian</Fname>
+		<Lname>Gerea</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Dhruv</Fname>
+		<Lname>Matani</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Josh</Fname>
+		<Lname>Metzler</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Fahim</Fname>
+		<Lname>Ul Haq</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Badrish</Fname>
+		<Lname>Chandramouli</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Jonathan</Fname>
+		<Lname>Goldstein</Lname>
+		<Location>Microsoft</Location>
+	</author>
+	<author>
+		<Fname>Peter</Fname>
+		<Lname>Bailis</Lname>
+		<Location>UC Berkeley</Location>
+	</author>
+	<author>
+		<Fname>Shivaram</Fname>
+		<Lname>Venkataraman</Lname>
+		<Location>UC Berkeley</Location>
+	</author>
+	<author>
+		<Fname>Ion</Fname>
+		<Lname>Stoica</Lname>
+		<Location>UC Berkeley</Location>
+	</author>
+	<author>
+		<Fname>Guoqiang Jerry</Fname>
+		<Lname>Chen</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Shridhar</Fname>
+		<Lname>Iyer</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Anshul</Fname>
+		<Lname>Jaiswal</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Ran</Fname>
+		<Lname>Lei</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Nikhil</Fname>
+		<Lname>Simha</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Wei</Fname>
+		<Lname>Wang</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Kevin</Fname>
+		<Lname>Wilfong</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Tim</Fname>
+		<Lname>Williamson</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Serhat</Fname>
+		<Lname>Yilmaz</Lname>
+		<Location>Facebook</Location>
+	</author>
+	<author>
+		<Fname>Viktor</Fname>
+		<Lname>Leis</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Andrey</Fname>
+		<Lname>Gubichev</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Atanas</Fname>
+		<Lname>Mirchev</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Alfons</Fname>
+		<Lname>Kemper</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname>Thomas</Fname>
+		<Lname>Neumann</Lname>
+		<Location>TU Munchen</Location>
+	</author>
+	<author>
+		<Fname/>
+		<Lname/>
+		<Location/>
+	</author>
+	<author>
+		<Fname>Zhen Hua</Fname>
+		<Lname>Liu</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Beda</Fname>
+		<Lname>Hammerschmidt</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Doug</Fname>
+		<Lname>McMahon</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Ying</Fname>
+		<Lname>Lu</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Hui Joe</Fname>
+		<Lname>Chang</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Shadi A</Fname>
+		<Lname>Noghabi1</Lname>
+		<Location>University of Illinois at Urbana-Champaign</Location>
+	</author>
+	<author>
+		<Fname>Sriram</Fname>
+		<Lname>Subramanian</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Priyesh</Fname>
+		<Lname>Narayanan</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Sivabalan</Fname>
+		<Lname>Narayanan</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Gopalakrishna</Fname>
+		<Lname>Holla</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Mammad</Fname>
+		<Lname>Zade</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Tianwei</Fname>
+		<Lname>Li</Lname>
+		<Location>Oracle</Location>
+	</author>
+	<author>
+		<Fname>Indranil</Fname>
+		<Lname>Gupta</Lname>
+		<Location>University of Illinois at Urbana-Champaign</Location>
+	</author>
+	<author>
+		<Fname>Roy H.</Fname>
+		<Lname>Campbell</Lname>
+		<Location>University of Illinois at Urbana-Champaign</Location>
+	</author>
+</authorRoot>

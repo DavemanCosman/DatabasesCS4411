@@ -1,0 +1,647 @@
+<?xml version="1.0"?>
+<documents>
+	<dblp>
+		<inproceedings key="conf/sigmod/CieslewiczRSY10" mdate="2010-06-07">
+			<author>John Cieslewicz</author>
+			<author>Kenneth A. Ross</author>
+			<author>Kyoho Satsumi</author>
+			<author>Yang Ye</author>
+			<title>Automatic contention detection and amelioration for data-intensive operations.</title>
+			<pages>483-494</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807221</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/KimWS10" mdate="2010-06-07">
+			<author>Yi-Reun Kim</author>
+			<author>Kyu-Young Whang</author>
+			<author>Il-Yeol Song</author>
+			<title>Page-differential logging: an efficient and DBMS-independent approach for storing data into flash memory.</title>
+			<pages>363-374</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807208</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/PoundIW10" mdate="2010-06-07">
+			<author>Jeffrey Pound</author>
+			<author>Ihab F. Ilyas</author>
+			<author>Grant E. Weddell</author>
+			<title>Expressive and flexible access to web-extracted data: a keyword-based structured query language.</title>
+			<pages>423-434</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807214</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/TsirogiannisHS10" mdate="2010-06-07">
+			<author>Dimitris Tsirogiannis</author>
+			<author>Stavros Harizopoulos</author>
+			<author>Mehul A. Shah</author>
+			<title>Analyzing the energy efficiency of a database server.</title>
+			<pages>231-242</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807194</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/Tyszkiewicz10" mdate="2010-06-07">
+			<author>Jerzy Tyszkiewicz</author>
+			<title>Spreadsheet as a relational database engine.</title>
+			<pages>195-206</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807191</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/XuJ10" mdate="2010-06-07">
+			<author>Zhengdao Xu</author>
+			<author>Hans-Arno Jacobsen</author>
+			<title>Processing proximity relations in road networks.</title>
+			<pages>243-254</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807196</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+			<cite>conf/icde/XuJ09</cite>
+			<cite>conf/icde/XuJ07</cite>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/KossmannKL10" mdate="2010-06-07">
+			<author>Donald Kossmann</author>
+			<author>Tim Kraska</author>
+			<author>Simon Loesing</author>
+			<title>An evaluation of alternative architectures for transaction processing in the cloud.</title>
+			<pages>579-590</pages>
+			<year>2010</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1807167.1807231</ee>
+			<crossref>conf/sigmod/2010</crossref>
+			<url>db/conf/sigmod/sigmod2010.html</url>
+			<cite>conf/sigmod/BinnigKKL09</cite>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/BinnigKKL09" mdate="2009-09-23">
+			<author>Carsten Binnig</author>
+			<author>Donald Kossmann</author>
+			<author>Tim Kraska</author>
+			<author>Simon Loesing</author>
+			<title>How is the weather tomorrow?: towards a benchmark for the cloud.</title>
+			<year>2009</year>
+			<booktitle>DBTest</booktitle>
+			<ee>http://doi.acm.org/10.1145/1594156.1594168</ee>
+			<crossref>conf/sigmod/2009dbtest</crossref>
+			<url>db/conf/sigmod/dbtest2009.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/ChapmanJ09" mdate="2009-07-01">
+			<author>Adriane Chapman</author>
+			<author>H. V. Jagadish</author>
+			<title>Why not?</title>
+			<pages>523-534</pages>
+			<year>2009</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1559845.1559901</ee>
+			<crossref>conf/sigmod/2009</crossref>
+			<url>db/conf/sigmod/sigmod2009.html</url>
+			<cite>conf/ipaw/ChapmanJ08</cite>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/cacm/Codd70" mdate="2003-11-20">
+			<author>E. F. Codd</author>
+			<title>A Relational Model of Data for Large Shared Data Banks.</title>
+			<pages>377-387</pages>
+			<year>1970</year>
+			<volume>13</volume>
+			<journal>Commun. ACM</journal>
+			<number>6</number>
+			<url>db/journals/cacm/cacm13.html</url>
+			<ee>db/journals/cacm/Codd70.html</ee>
+			<ee>http://doi.acm.org/10.1145/362384.362685</ee>
+			<cdrom>CACMs1/CACM13/P377.pdf</cdrom>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/icde/LometL09" mdate="2009-04-19">
+			<author>David B. Lomet</author>
+			<author>Feifei Li</author>
+			<title>Improving Transaction-Time DBMS Performance and Functionality.</title>
+			<pages>581-591</pages>
+			<year>2009</year>
+			<booktitle>ICDE</booktitle>
+			<ee>http://dx.doi.org/10.1109/ICDE.2009.56</ee>
+			<crossref>conf/icde/2009</crossref>
+			<url>db/conf/icde/icde2009.html</url>
+			<cite>conf/sigmod/LometS90</cite>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/McSherry09" mdate="2009-07-01">
+			<author>Frank McSherry</author>
+			<title>Privacy integrated queries: an extensible platform for privacy-preserving data analysis.</title>
+			<pages>19-30</pages>
+			<year>2009</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1559845.1559850</ee>
+			<crossref>conf/sigmod/2009</crossref>
+			<url>db/conf/sigmod/sigmod2009.html</url>
+			<cite>conf/focs/McSherryT07</cite>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/icde/MitraWSYA09" mdate="2009-04-19">
+			<author>Soumyadeb Mitra</author>
+			<author>Marianne Winslett</author>
+			<author>Richard T. Snodgrass</author>
+			<author>Shashank Yaduvanshi</author>
+			<author>Sumedh Ambokar</author>
+			<title>An Architecture for Regulatory Compliant Database Management.</title>
+			<pages>162-173</pages>
+			<year>2009</year>
+			<booktitle>ICDE</booktitle>
+			<ee>http://dx.doi.org/10.1109/ICDE.2009.69</ee>
+			<crossref>conf/icde/2009</crossref>
+			<url>db/conf/icde/icde2009.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/TsirogiannisHSWG09" mdate="2009-07-01">
+			<author>Dimitris Tsirogiannis</author>
+			<author>Stavros Harizopoulos</author>
+			<author>Mehul A. Shah</author>
+			<author>Janet L. Wiener</author>
+			<author>Goetz Graefe</author>
+			<title>Query processing techniques for solid state drives.</title>
+			<pages>59-72</pages>
+			<year>2009</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1559845.1559854</ee>
+			<crossref>conf/sigmod/2009</crossref>
+			<url>db/conf/sigmod/sigmod2009.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/vldb/JensenL01" mdate="2002-01-03">
+			<author>Christian S. Jensen</author>
+			<author>David B. Lomet</author>
+			<title>Transaction Timestamping in (Temporal) Databases.</title>
+			<year>2001</year>
+			<crossref>conf/vldb/2001</crossref>
+			<booktitle>VLDB</booktitle>
+			<url>db/conf/vldb/vldb2001.html</url>
+			<pages>441-450</pages>
+			<ee>http://www.vldb.org/conf/2001/P441.pdf</ee>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/tkde/JensenS99" mdate="2003-11-20">
+			<author>Christian S. Jensen</author>
+			<author>Richard T. Snodgrass</author>
+			<title>Temporal Data Management.</title>
+			<pages>36-44</pages>
+			<year>1999</year>
+			<volume>11</volume>
+			<journal>IEEE Trans. Knowl. Data Eng.</journal>
+			<number>1</number>
+			<ee>http://www.computer.org:80/tkde/tk1999/k0036abs.htm</ee>
+			<url>db/journals/tkde/tkde11.html#JensenS99</url>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/ipaw/ChapmanJ08" mdate="2008-11-24">
+			<author>Adriane Chapman</author>
+			<author>H. V. Jagadish</author>
+			<title>Provenance and the Price of Identity.</title>
+			<pages>106-119</pages>
+			<year>2008</year>
+			<booktitle>IPAW</booktitle>
+			<ee>http://dx.doi.org/10.1007/978-3-540-89965-5_12</ee>
+			<crossref>conf/ipaw/2008</crossref>
+			<url>db/conf/ipaw/ipaw2008.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/focs/McSherryT07" mdate="2008-03-04">
+			<author>Frank McSherry</author>
+			<author>Kunal Talwar</author>
+			<title>Mechanism Design via Differential Privacy.</title>
+			<pages>94-103</pages>
+			<year>2007</year>
+			<booktitle>FOCS</booktitle>
+			<ee>http://doi.ieeecomputersociety.org/10.1109/FOCS.2007.41</ee>
+			<crossref>conf/focs/2007</crossref>
+			<url>db/conf/focs/focs2007.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/LometS90" mdate="2006-03-31">
+			<crossref>conf/sigmod/90</crossref>
+			<author>David B. Lomet</author>
+			<author>Betty Salzberg</author>
+			<title>The Performance of a Multiversion Access Method.</title>
+			<pages>353-363</pages>
+			<year>1990</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<url>db/conf/sigmod/sigmod90.html</url>
+			<ee>http://doi.acm.org/10.1145/93597.98744</ee>
+			<ee>db/conf/sigmod/LometS90.html</ee>
+			<cdrom>SIGMOD90/P353.PDF</cdrom>
+			<cite label="AhSn">journals/is/AhnS88</cite>
+			<cite label="BYLa">journals/tkde/Baeza-YatesL89</cite>
+			<cite label="East">journals/ibmrd/Easton86</cite>
+			<cite label="EZGMW">journals/iandc/WoodEZM82</cite>
+			<cite label="JeMR">journals/tkde/JensenMR91</cite>
+			<cite label="LoSa">conf/sigmod/LometS89</cite>
+			<cite label="McKe">journals/sigmod/McKenzie86</cite>
+			<cite label="SeSh">conf/sigmod/SegevS87</cite>
+			<cite label="SnAh">conf/sigmod/SnodgrassA85</cite>
+			<cite label="Ston">conf/vldb/Stonebraker87</cite>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/icde/XuJ09" mdate="2009-04-19">
+			<author>Zhengdao Xu</author>
+			<author>Hans-Arno Jacobsen</author>
+			<title>Expressive Location-Based Continuous Query Evaluation with Binary Decision Diagrams.</title>
+			<pages>1155-1158</pages>
+			<year>2009</year>
+			<booktitle>ICDE</booktitle>
+			<ee>http://dx.doi.org/10.1109/ICDE.2009.189</ee>
+			<crossref>conf/icde/2009</crossref>
+			<url>db/conf/icde/icde2009.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/icde/XuJ07" mdate="2007-06-21">
+			<author>Zhengdao Xu</author>
+			<author>Hans-Arno Jacobsen</author>
+			<title>Evaluating Proximity Relations Under Uncertainty.</title>
+			<pages>876-885</pages>
+			<year>2007</year>
+			<crossref>conf/icde/2007</crossref>
+			<booktitle>ICDE</booktitle>
+			<ee>http://dx.doi.org/10.1109/ICDE.2007.367933</ee>
+			<url>db/conf/icde/icde2007.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/cn/BrinP98" mdate="2003-11-27">
+			<author>Sergey Brin</author>
+			<author>Lawrence Page</author>
+			<title>The Anatomy of a Large-Scale Hypertextual Web Search Engine.</title>
+			<pages>107-117</pages>
+			<year>1998</year>
+			<volume>30</volume>
+			<journal>Computer Networks</journal>
+			<number>1-7</number>
+			<url>db/journals/cn/cn30.html</url>
+			<ee>http://dx.doi.org/10.1016/S0169-7552(98)00110-X</ee>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/ChenDMQRRS12" mdate="2012-05-24">
+			<author>Jianjun Chen</author>
+			<author>Chris Douglas</author>
+			<author>Michi Mutsuzaki</author>
+			<author>Patrick Quaid</author>
+			<author>Raghu Ramakrishnan</author>
+			<author>Sriram Rao</author>
+			<author>Russell Sears</author>
+			<title>Walnut: a unified cloud object store.</title>
+			<pages>743-754</pages>
+			<year>2012</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2213836.2213947</ee>
+			<crossref>conf/sigmod/2012</crossref>
+			<url>db/conf/sigmod/sigmod2012.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/dbsk/Graefe11" mdate="2011-08-08">
+			<author>Goetz Graefe</author>
+			<title>Sorting in a Memory Hierarchy with Flash Memory.</title>
+			<pages>83-90</pages>
+			<year>2011</year>
+			<volume>11</volume>
+			<journal>Datenbank-Spektrum</journal>
+			<number>2</number>
+			<ee>http://dx.doi.org/10.1007/s13222-011-0062-6</ee>
+			<url>db/journals/dbsk/dbsk11.html</url>
+		</article>
+	</dblp>
+	<dblp>
+		<article key="journals/pvldb/GraefeK12" mdate="2012-03-26">
+			<author>Goetz Graefe</author>
+			<author>Harumi A. Kuno</author>
+			<title>Definition, Detection, and Recovery of Single-Page Failures, a Fourth Class of Database Failures.</title>
+			<pages>646-655</pages>
+			<year>2012</year>
+			<volume>5</volume>
+			<journal>PVLDB</journal>
+			<number>7</number>
+			<ee>http://vldb.org/pvldb/vol5/p646_goetzgraefe_vldb2012.pdf</ee>
+			<url>db/journals/pvldb/pvldb5.html</url>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/PavloPRADMS09" mdate="2009-07-01">
+			<author>Andrew Pavlo</author>
+			<author>Erik Paulson</author>
+			<author>Alexander Rasin</author>
+			<author>Daniel J. Abadi</author>
+			<author>David J. DeWitt</author>
+			<author>Samuel Madden</author>
+			<author>Michael Stonebraker</author>
+			<title>A comparison of approaches to large-scale data analysis.</title>
+			<pages>165-178</pages>
+			<year>2009</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/1559845.1559865</ee>
+			<crossref>conf/sigmod/2009</crossref>
+			<url>db/conf/sigmod/sigmod2009.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/ShankarNACEHRSDG12" mdate="2012-06-16">
+			<author>Srinath Shankar</author>
+			<author>Rimma V. Nehme</author>
+			<author>Josep Aguilar-Saborit</author>
+			<author>Andrew Chung</author>
+			<author>Mostafa Elhemali</author>
+			<author>Alan Halverson</author>
+			<author>Eric Robinson</author>
+			<author>Mahadevan Sankara Subramanian</author>
+			<author>David J. DeWitt</author>
+			<author>Cesar A. Galindo-Legaria</author>
+			<title>Query optimization in microsoft SQL server PDW.</title>
+			<pages>767-776</pages>
+			<year>2012</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2213836.2213953</ee>
+			<crossref>conf/sigmod/2012</crossref>
+			<url>db/conf/sigmod/sigmod2012.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/SuS12" mdate="2012-05-22">
+			<author>Xueyuan Su</author>
+			<author>Garret Swart</author>
+			<title>Oracle in-database hadoop: when mapreduce meets RDBMS.</title>
+			<pages>779-790</pages>
+			<year>2012</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2213836.2213955</ee>
+			<crossref>conf/sigmod/2012</crossref>
+			<url>db/conf/sigmod/sigmod2012.html</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/edbt/AfratiU10" mdate="2010-03-18">
+			<author>Foto N. Afrati</author>
+			<author>Jeffrey D. Ullman</author>
+			<title>Optimizing joins in a map-reduce environment.</title>
+			<pages>99-110</pages>
+			<year>2010</year>
+			<booktitle>EDBT</booktitle>
+			<ee>http://doi.acm.org/10.1145/1739041.1739056</ee>
+			<crossref>conf/edbt/2010</crossref>
+			<url>db/conf/edbt/edbt2010.html#AfratiU10</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/pvldb/BalkesenATO13" mdate="2013-09-12">
+			<author>Cagri Balkesen</author>
+			<author>Gustavo Alonso</author>
+			<author>Jens Teubner</author>
+			<author>M. Tamer Ozsu</author>
+			<title>Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited.</title>
+			<pages>85-96</pages>
+			<year>2013</year>
+			<volume>7</volume>
+			<journal>PVLDB</journal>
+			<number>1</number>
+			<ee>http://www.vldb.org/pvldb/vol7/p85-balkesen.pdf</ee>
+			<url>db/journals/pvldb/pvldb7.html#BalkesenATO13</url>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/osdi/DeanG04" mdate="2012-05-21">
+			<author>Jeffrey Dean</author>
+			<author>Sanjay Ghemawat</author>
+			<title>MapReduce: Simplified Data Processing on Large Clusters.</title>
+			<pages>137-150</pages>
+			<year>2004</year>
+			<crossref>conf/osdi/2004</crossref>
+			<booktitle>OSDI</booktitle>
+			<ee>http://www.usenix.org/events/osdi04/tech/dean.html</ee>
+			<url>db/conf/osdi/osdi2004.html#DeanG04</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/tods/GriffithsW76" mdate="2012-01-25">
+			<author>Patricia P. Griffiths</author>
+			<author>Bradford W. Wade</author>
+			<title>An Authorization Mechanism for a Relational Database System.</title>
+			<pages>242-255</pages>
+			<cdrom>TODS1/P242.PDF</cdrom>
+			<year>1976</year>
+			<volume>1</volume>
+			<journal>ACM Trans. Database Syst.</journal>
+			<number>3</number>
+			<url>db/journals/tods/tods1.html#GriffithsW76</url>
+		</article>
+	</dblp>
+	<dblp>
+		<article key="journals/pvldb/LarsonBDFPZ11" mdate="2012-01-10">
+			<author>P.-A. Larson</author>
+			<author>Spyros Blanas</author>
+			<author>Cristian Diaconu</author>
+			<author>Craig Freedman</author>
+			<author>Jignesh M. Patel</author>
+			<author>Mike Zwilling</author>
+			<title>High-Performance Concurrency Control Mechanisms for Main-Memory Databases.</title>
+			<pages>298-309</pages>
+			<year>2011</year>
+			<volume>5</volume>
+			<journal>PVLDB</journal>
+			<number>4</number>
+			<ee>http://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf</ee>
+			<url>db/journals/pvldb/pvldb5.html#LarsonBDFPZ11</url>
+		</article>
+	</dblp>
+	<dblp>
+		<article key="journals/cacm/BailisVFHS14" mdate="2014-07-30">
+			<author>Peter Bailis</author>
+			<author>Shivaram Venkataraman</author>
+			<author>Michael J. Franklin</author>
+			<author>Joseph M. Hellerstein</author>
+			<author>Ion Stoica</author>
+			<title>Quantifying eventual consistency with PBS.</title>
+			<pages>93-102</pages>
+			<year>2014</year>
+			<volume>57</volume>
+			<journal>Commun. ACM</journal>
+			<number>8</number>
+			<ee>http://doi.acm.org/10.1145/2632792</ee>
+			<url>db/journals/cacm/cacm57.html#BailisVFHS14</url>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/ChandramouliG14" mdate="2014-06-21">
+			<author>Badrish Chandramouli</author>
+			<author>Jonathan Goldstein</author>
+			<title>Patience is a virtue: revisiting merge and sort on modern processors.</title>
+			<pages>731-742</pages>
+			<year>2014</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2588555.2593662</ee>
+			<crossref>conf/sigmod/2014</crossref>
+			<url>db/conf/sigmod/sigmod2014.html#ChandramouliG14</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/GoelCGMMHW14" mdate="2014-06-21">
+			<author>Aakash Goel</author>
+			<author>Bhuwan Chopra</author>
+			<author>Ciprian Gerea</author>
+			<author>Dhruv Matani</author>
+			<author>Josh Metzler</author>
+			<author>Fahim Ul Haq</author>
+			<author>Janet L. Wiener</author>
+			<title>Fast database restarts at facebook.</title>
+			<pages>541-549</pages>
+			<year>2014</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2588555.2595642</ee>
+			<crossref>conf/sigmod/2014</crossref>
+			<url>db/conf/sigmod/sigmod2014.html#GoelCGMMHW14</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/LiuHM14" mdate="2014-06-21">
+			<author>Zhen Hua Liu</author>
+			<author>Beda Christoph Hammerschmidt</author>
+			<author>Doug McMahon</author>
+			<title>JSON data management: supporting schema-less development in RDBMS.</title>
+			<pages>1247-1258</pages>
+			<year>2014</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2588555.2595628</ee>
+			<crossref>conf/sigmod/2014</crossref>
+			<url>db/conf/sigmod/sigmod2014.html#LiuHM14</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/SelingerACLP79" mdate="2012-09-14">
+			<crossref>conf/sigmod/79</crossref>
+			<author>Patricia G. Selinger</author>
+			<author>Morton M. Astrahan</author>
+			<author>Donald D. Chamberlin</author>
+			<author>Raymond Lorie</author>
+			<author>Thomas G. Price</author>
+			<title>Access Path Selection in a Relational Database Management System.</title>
+			<pages>23-34</pages>
+			<year>1979</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<url>db/conf/sigmod/sigmod79.html#SelingerACLP79</url>
+			<cdrom>SIGMOD79/P023.PDF</cdrom>
+			<ee>http://doi.acm.org/10.1145/582095.582099</ee>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/ChenWIJLSWWWY16" mdate="2016-06-18">
+			<author>Guoqiang Jerry Chen</author>
+			<author>Janet L. Wiener</author>
+			<author>Shridhar Iyer</author>
+			<author>Anshul Jaiswal</author>
+			<author>Ran Lei</author>
+			<author>Nikhil Simha</author>
+			<author>Wei Wang</author>
+			<author>Kevin Wilfong</author>
+			<author>Tim Williamson</author>
+			<author>Serhat Yilmaz</author>
+			<title>Realtime Data Processing at Facebook.</title>
+			<pages>1087-1098</pages>
+			<year>2016</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2882903.2904441</ee>
+			<crossref>conf/sigmod/2016</crossref>
+			<url>db/conf/sigmod/sigmod2016.html#ChenWIJLSWWWY16</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<article key="journals/pvldb/LeisGMBK015" mdate="2015-11-24">
+			<author>Viktor Leis</author>
+			<author>Andrey Gubichev</author>
+			<author>Atanas Mirchev</author>
+			<author>Peter Boncz</author>
+			<author>Alfons Kemper</author>
+			<author>Thomas Neumann</author>
+			<title>How Good Are Query Optimizers, Really?</title>
+			<pages>204-215</pages>
+			<year>2015</year>
+			<volume>9</volume>
+			<journal>PVLDB</journal>
+			<number>3</number>
+			<ee>http://www.vldb.org/pvldb/vol9/p204-leis.pdf</ee>
+			<url>db/journals/pvldb/pvldb9.html#LeisGMBK015</url>
+		</article>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/LiuHMLC16" mdate="2016-06-18">
+			<author>Zhen Hua Liu</author>
+			<author>Beda Hammerschmidt</author>
+			<author>Doug McMahon</author>
+			<author>Ying Liu</author>
+			<author>Hui Joe Chang</author>
+			<title>Closing the functional and Performance Gap between SQL and NoSQL.</title>
+			<pages>227-238</pages>
+			<year>2016</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2882903.2903731</ee>
+			<crossref>conf/sigmod/2016</crossref>
+			<url>db/conf/sigmod/sigmod2016.html#LiuHMLC16</url>
+		</inproceedings>
+	</dblp>
+	<dblp>
+		<inproceedings key="conf/sigmod/NoghabiSNNHZLGC16" mdate="2016-06-18">
+			<author>Shadi A. Noghabi</author>
+			<author>Sriram Subramanian</author>
+			<author>Priyesh Narayanan</author>
+			<author>Sivabalan Narayanan</author>
+			<author>Gopalakrishna Holla</author>
+			<author>Mammad Zadeh</author>
+			<author>Tianwei Li</author>
+			<author>Indranil Gupta</author>
+			<author>Roy H. Campbell</author>
+			<title>Ambry: LinkedIn's Scalable Geo-Distributed Object Store.</title>
+			<pages>253-265</pages>
+			<year>2016</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>http://doi.acm.org/10.1145/2882903.2903738</ee>
+			<crossref>conf/sigmod/2016</crossref>
+			<url>db/conf/sigmod/sigmod2016.html#NoghabiSNNHZLGC16</url>
+		</inproceedings>
+	</dblp>
+</documents>

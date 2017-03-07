@@ -1,0 +1,3 @@
+declare variable $authors := doc("authors.xml");
+declare variable $papers := doc("paperdata.xml");
+
